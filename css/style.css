@@ -134,7 +134,6 @@ figure {
 
 .portfolio-img {
 	width: 100%;
-	border: 2px solid white;
 	box-shadow: 4px 2px 2px 0px rgba(0,0,0,0.5);
 }
 
@@ -187,7 +186,6 @@ figure:hover:before {
 
 .full-img {
 	width: 60%;
-	border: 2px solid white;
 	box-shadow: 4px 2px 2px 0px rgba(0,0,0,0.5);
 }
 
@@ -196,7 +194,6 @@ figure:hover:before {
 	float: left;
 	width: 30%;
 	margin-right: 3%;
-	border: 2px solid white;
 	box-shadow: 4px 2px 2px 0px rgba(0,0,0,0.5);
 }
 
