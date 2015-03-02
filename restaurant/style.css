@@ -1,0 +1,58 @@
+body {
+	background: url("images/colorful-border.jpg") repeat-x, url("images/taco-bg.jpg") no-repeat;
+	background-color: #52596b;
+	background-attachment: fixed;
+	background-size: 800px 35px, cover;
+	margin: 0px;
+	text-align: center;
+	color: #ffffff;
+}
+
+div#info-box {
+	background-color: rgba(0, 0, 0, 0.4);
+	display: block;
+	height: 650px;
+	width: 700px;
+	border-radius: 25px;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img#logo {
+	width: 500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 40px
+}
+
+h1 {
+	font-family: 'Vidaloka', serif;
+	text-transform: uppercase;
+	font-size: 40px;
+	width: 500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 150%;
+	width: 510px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img#toro {
+	width: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
