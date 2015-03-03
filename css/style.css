@@ -250,36 +250,22 @@ a.anchor {
 	border: none;
 }
 
-/* Icons Section 
-
-.cases .devices {
-	width: 33%;
-	display: inline-block;
+.contact > .content {
+	width: 970px;
+	margin: 5rem auto 5rem auto;
+	-webkit-font-smoothing: antialiased;
 }
 
-.cases h2 {
-	font-size: 2.75rem;
-	text-align: center;
-	font-weight: 300;
-	margin: 1.625rem 0 3.125rem;
-}
-
-.device-img {
-	width: 100%
-}
-
-.cases .devices h3 {
-	font-size: 1.6rem;
-	margin: 2.5rem 0px 1.875rem;
-	text-align: center;
-}
-
-.social {
+.contact {
     background-color: #fff;
     overflow: auto;
     padding-bottom: 9.375rem;
     text-align: center;
 }
+
+/* 
+
+
 .social hr {
     border: 0;
     border-top: 1px solid #eaebec;
