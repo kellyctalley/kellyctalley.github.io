@@ -259,7 +259,7 @@ a.anchor {
 .contact {
     background-color: #fff;
     overflow: auto;
-    padding-bottom: 9.375rem;
+    padding-bottom: 3rem;
     text-align: center;
 }
 
@@ -274,14 +274,18 @@ a.anchor {
 }
 
 .contact .icons {
-	font-size: 2rem;
-	color: #ddd;
+	font-size: 3rem;
+	color: #838994;
+}
+
+.icons a:visited {
+	color: #838994;
 }
 
 .contact .icons > li {
     width: 2.5rem;
     height: 2.5rem;
     display: inline-block;
-    margin: 1.25rem 5px;
+    margin: 1.25rem 4px;
     padding: 0.625rem 0;
 }
