@@ -273,6 +273,11 @@ a.anchor {
 	text-decoration: none;
 }
 
+.contact .icons {
+	font-size: 2rem;
+	color: #ddd;
+}
+
 .contact .icons > li {
     width: 2.5rem;
     height: 2.5rem;
@@ -280,31 +285,3 @@ a.anchor {
     margin: 1.25rem 5px;
     padding: 0.625rem 0;
 }
-
-/* 
-
-
-.social hr {
-    border: 0;
-    border-top: 1px solid #eaebec;
-    margin: 1.313rem 0;
-}
-
-.social .icons > li:hover {
-    cursor: pointer;
-}
-.social .twitter {
-    color: #55acee;
-}
-.social .facebook {
-    color: #4c66a4;
-}
-.social .instagram {
-    color: #3f729b;
-}
-.social .copy {
-    font-size: 0.9rem;
-    font-weight: 300;
-    color: #838994;
-}
-*/
